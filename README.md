@@ -1,7 +1,7 @@
 # PWM-free novel boost converter for battery-powered IoT applications
 A repository (to be updated) containing schematics, simulation results and physical layout of four power delivery circuits for comparison purposes.
 
-Mock-Tapeout Pin-List: https://docs.google.com/spreadsheets/d/188w3yu2MgiyxpqXE5yQ7a1ouuwjLWwCuQ07cWmlki4c/edit#gid=0
+Mock-Tapeout Pin-List: https://docs.google.com/spreadsheets/d/188w3yu2MgiyxpqXE5yQ7a1ouuwjLWwCuQ07cWmlki4c/edit#gid=0 \
 Pre-Check Log in Resources directory. Issues with extracted netlist. Working on it.
 
 ## Summary
