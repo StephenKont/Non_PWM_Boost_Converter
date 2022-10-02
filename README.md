@@ -1,7 +1,7 @@
 # PWM-free novel boost converter for battery-powered IoT applications
 A repository (to be updated) containing schematics, simulation results and physical layout of four power delivery circuits for comparison purposes.
 
-Mock-Tapeout Pin-List: https://docs.google.com/spreadsheets/d/188w3yu2MgiyxpqXE5yQ7a1ouuwjLWwCuQ07cWmlki4c/edit#gid=0 \
+Pin-List: https://docs.google.com/spreadsheets/d/188w3yu2MgiyxpqXE5yQ7a1ouuwjLWwCuQ07cWmlki4c/edit#gid=0 \
 
 ## Summary
 This project aims to evaluate a novel non-PWM boost converter for extending the battery life in IoT applications. The proposed converter will be compared to a traditional PWM boost converter and a switched-capacitor boost converter. The purpose is to perform a comparative analysis between the non-PWM boost converter and the other state-of-the-art topologies for a 1.5 V battery source scenario in order to demonstrate the significance and, possible, limitations of the non-PWM boost converter via the metrics of power efficiency, load regulation, and quiescent current.
